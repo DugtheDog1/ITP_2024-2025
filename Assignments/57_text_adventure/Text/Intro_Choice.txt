@@ -1,0 +1,5 @@
+"take the flyer"|"You decide to take the flyer and investigate the underground club. The address leads you to a dimly lit alley. You can hear faint music thumping behind a hidden door. Do you:"
+"pick up the flyer"|"You decide to take the flyer and investigate the underground club. The address leads you to a dimly lit alley. You can hear faint music thumping behind a hidden door. Do you:"
+"grab the flyer"|"You decide to take the flyer and investigate the underground club. The address leads you to a dimly lit alley. You can hear faint music thumping behind a hidden door. Do you:"
+"get the flyer"|"You decide to take the flyer and investigate the underground club. The address leads you to a dimly lit alley. You can hear faint music thumping behind a hidden door. Do you:"
+"investigate the flyer"|"You decide to take the flyer and investigate the underground club. The address leads you to a dimly lit alley. You can hear faint music thumping behind a hidden door. Do you:"
