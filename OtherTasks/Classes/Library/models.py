@@ -1,11 +1,13 @@
 
 
 class Book:
-    def __init__(self, title, author, in_section, in_isle):
+    def __init__(self, title, author, id, isle_num, shelf_num):
         self.title = title
         self.author = author
-        self.in_section = in_section
-        self.in_isle = in_isle
+        self.id = id
+        self.isle_num = isle_num
+        self.shelf_num = shelf_num
+
 
 class Library:
     def __init__(self):
