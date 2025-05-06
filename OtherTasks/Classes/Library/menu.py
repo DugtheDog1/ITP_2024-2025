@@ -1,5 +1,6 @@
-from random_book_generator import books
+import json
 
-for book in books:
-    print(book.title)
-    print(book.author)
+with open("OtherTasks/Classes/Library/books.json", "r") as x:
+    data = json.load(x)
+    for book in data["books"]:
+        print(book["title"])

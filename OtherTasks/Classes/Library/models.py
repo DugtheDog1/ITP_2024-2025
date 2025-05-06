@@ -1,13 +1,12 @@
 
 
 class Book:
-    def __init__(self, title, author, id, isle_num, shelf_num):
+    def __init__(self, title, author, book_id, isle, shelf):
         self.title = title
         self.author = author
-        self.id = id
-        self.isle_num = isle_num
-        self.shelf_num = shelf_num
-
+        self.id = book_id
+        self.isle = isle
+        self.shelf = shelf
 
 class Library:
     def __init__(self):
@@ -17,11 +16,11 @@ class Library:
         return len(books)
 
 class User:
-    def __init__(self):  # Correct constructor name
+    def __init__(self):  
         self.name = None
         self.password = None
 
-    def new_user(self, name, password):  # Correct indentation and method definition
+    def new_user(self, name, password):
         self.name = name
         self.password = password
 
