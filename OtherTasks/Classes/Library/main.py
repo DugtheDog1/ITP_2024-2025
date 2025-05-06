@@ -14,14 +14,13 @@ class Library:
     def list_books(self, books):
         return len(books)
 
+class User:
+    def __init__(self, name, id):
+        self.name = name
+        self.id = id
 
 
-books = [
-    Book("To Kill a Mockingbird", "Harper Lee", "1", "3"),
-    Book("1984", "George Orwell", "2", "2"),
-    Book("The Great Gatsby", "F. Scott Fitzgerald", "3", "3")
-]
 
 
-print(Library().list_books(books))
+
 
