@@ -15,9 +15,15 @@ class Library:
         return len(books)
 
 class User:
-    def __init__(self, name, id):
+    def __init__(self):  # Correct constructor name
+        self.name = None
+        self.password = None
+
+    def new_user(self, name, password):  # Correct indentation and method definition
         self.name = name
-        self.id = id
+        self.password = password
+
+
 
 
 
