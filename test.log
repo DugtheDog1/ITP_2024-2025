@@ -1,0 +1,5 @@
+WARNING: KICAD8_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/workspaces/ITP_2024-2025/<frozen importlib._bootstrap_external>:994=>/workspaces/ITP_2024-2025/<frozen importlib._bootstrap>:488]
+WARNING: KICAD7_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/workspaces/ITP_2024-2025/<frozen importlib._bootstrap_external>:994=>/workspaces/ITP_2024-2025/<frozen importlib._bootstrap>:488]
+WARNING: KICAD6_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/workspaces/ITP_2024-2025/<frozen importlib._bootstrap_external>:994=>/workspaces/ITP_2024-2025/<frozen importlib._bootstrap>:488]
+WARNING: KICAD_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/workspaces/ITP_2024-2025/<frozen importlib._bootstrap_external>:994=>/workspaces/ITP_2024-2025/<frozen importlib._bootstrap>:488]
+ERROR: Unsupported ECAD tool library: kicad. @ [/workspaces/ITP_2024-2025/test.py:14]
